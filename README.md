@@ -30,4 +30,4 @@ Start Bootstrap의 **Freelancer** 테마를 활용하였습니다.
 **Back-end 개발자**  
 서버와 데이터베이스를 설계 및 관리하며 사용자 요청을 처리하는 개발을 목표로 하고 있습니다.
 
- ## GitHub 주소:   
+ ## GitHub 주소: https://github.com/weirdogun/weridogun.git
